@@ -1,3 +1,7 @@
+## Defintive Shadow V2.0.1
+- Testing update server
+- Added TheyCallMe_Pin to the Author section
+
 ## <s>Shadow Frontiers </s>
 ## Definitive Shadow V2.0
 - Second Release
