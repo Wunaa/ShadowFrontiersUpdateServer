@@ -1,4 +1,4 @@
-## Defintive Shadow V2.0.1
+## Defintive Shadow V2.0.2
 - Testing update server
 - Added TheyCallMe_Pin to the Author section
 
