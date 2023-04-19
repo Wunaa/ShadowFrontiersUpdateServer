@@ -1,3 +1,6 @@
+## Defintive Shadow V2.0.3
+- Removed left over profile files
+
 ## Defintive Shadow V2.0.2
 - Testing update server
 - Added TheyCallMe_Pin to the Author section
