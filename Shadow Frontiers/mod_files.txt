@@ -1,1 +1,4 @@
+delete profiles/Deeznuts.ini
+delete profiles/Default.ini
+delete profiles/Nothing.ini
 add mod.ini
